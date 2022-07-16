@@ -1,2 +1,44 @@
 /* Write your CSS here! */
 
+/* #1 here: + rule "b" */
+
+#mainHeading {
+    width: 570px;
+    margin: auto;
+    border: 5px dotted pink;
+    color: red;
+      }
+
+section {
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-bottom: 5px;
+    padding-left: 30px;
+  }
+
+  /* rule a:  */
+body {
+    display: block;
+    margin: 8px;
+  }
+
+/* rule c: */
+.funParagraph {
+    color: green;
+}
+
+h2 {
+    color: pink;
+    margin: 30px;
+}
+
+p {
+    display: block;
+    margin: 30px;
+}
+
+.picture {
+    background-color: pink;
+}
+
+
